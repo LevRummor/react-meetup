@@ -1,0 +1,27 @@
+
+
+.space-bw-li{
+    padding-left: 100px;
+}
+
+.btn-back{
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    margin: auto;
+}
+
+hr{
+    height: 1px;
+    border-style: none;
+    width: 100%;
+    background-color: rgb(204, 204, 204);
+}
+
+.actionable-content{
+    margin-top: 50px;
+}
+
+.edit-form{
+    margin-bottom: 50px;
+}
